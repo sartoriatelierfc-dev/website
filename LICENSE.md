@@ -10,7 +10,7 @@ We aim to publish accurate information at all times and will update information 
 We use security measures to protect the contents of the Website from viruses. However, we cannot guarantee that material and downloads from our Website are free from viruses or malicious codes. It is your responsibility to ensure that you have taken precautions to protect your own computer system from virus infections.
 
 -- ITALIAN / ITALIANO --
-Questo sito Web viene presentato all'utente "COSÌ COM'È", senza alcuna dichiarazione o garanzia di alcun tipo, comprese garanzie implicite o esplicite relative alla qualità del sito Web e/o alla sua idoneità per uno scopo particolare. Miriamo a fornire un servizio eccellente privo di errori, ma non possiamo garantire che il Sito Web sarà sempre disponibile e/o privo di errori. Nella misura consentita dalla legge, né le Società né alcuna di esse accettano alcuna responsabilità derivante da eventuali errori e/o indisponibilità dal nostro sito Web.
+Questo sito Web viene presentato all'utente "COSÌ COM'È", senza alcuna dichiarazione o garanzia di alcun tipo, comprese garanzie implicite o esplicite relative alla qualità del sito Web e/o alla sua idoneità per uno scopo particolare. Miriamo a fornire un servizio eccellente privo di errori, ma non possiamo garantire che il Sito Web sarà sempre disponibile e/o privo di errori. Nella misura consentita dalla legge, non accettiamo alcuna responsabilità derivante da eventuali errori e/o indisponibilità dal nostro sito Web.
 
 Miriamo a pubblicare informazioni accurate in ogni momento e aggiorneremo le informazioni su base regolare. Se vieni a conoscenza di eventuali inesattezze sul nostro sito Web, ti preghiamo di contattarci.
 
