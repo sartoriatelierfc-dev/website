@@ -1,10 +1,10 @@
-Privacy Policy
-Informativa privacy ex D.lgs.196/03 e Regolamento UE nr. 679/2016
+**Privacy Policy**
+**Informativa privacy ex D.lgs.196/03 e Regolamento UE nr. 679/2016**
 
 
 Ai sensi dell’art. 13 del D.lgs.196/03 ed in seguito all’entrata in vigore del Regolamento UE nr. 679/2016 conformemente a quanto disciplinato dall’art. 13 del citato Regolamento Europeo, desideriamo comunicarVi quanto segue:
 
-Finalità del trattamento
+**Finalità del trattamento**
 
 I Vs. dati personali, liberamente comunicati e da noi acquisiti in ragione dell’attività svolta da:
 Atelier Sartoriale Chiocchetti Federica
@@ -19,30 +19,30 @@ Utilizzando i pulsanti presenti nella parte alta del sito per contattarci per vi
 
 I dati trattati sono aggiornati, pertinenti, completi e non eccedenti rispetto alle finalità sopra elencate per le quali sono raccolti e successivamente trattati.
 
-Modalità del trattamento
+**Modalità del trattamento**
 
 I dati medesimi verranno trattati, nel rispetto della sicurezza e riservatezza necessarie, attraverso le seguenti modalità: raccolta dei dati presso l’interessato, raccolta e registrate per scopi determinati, espliciti e legittimi, utilizzati in ulteriori operazioni di trattamento in termini compatibili con tali scopi, trattamento posto in essere con l’ausilio di strumenti elettronici ed automatizzati (raccolta dei dati per via telematica, direttamente presso l’interessato).
 
-Base giuridica del trattamento
+**Base giuridica del trattamento**
 
 La base giuridica del trattamento dei Vs. dati personali si fonda sulla registrazione al portale web https://sartoriatelierfc.com.
 
 Legittimi interessi perseguiti dal Titolare del Trattamento:
 I legittimi interessi perseguiti dal Titolare del Trattamento nel trattamento dei dati è data dal dover rispettare ed onorare le obbligazioni contrattuali sottoscritte tra le parti. Ai sensi dell’art. 6 la liceità del trattamento si basa sul consenso manifestamente espresso da parte dell’interessato, documentato in forma scritta. Natura obbligatoria o facoltativa del conferimento dei dati e conseguenze di un eventuale rifiuto a rispondere: la natura del conferimento dei dati da parte Vostra è obbligatoria affinché il titolare del trattamento possa erogare i servizi richiesti. In caso di rifiuto sarà quindi impossibile completare il processo di registrazione e il Titolare di Sistema non potrà adempiere agli obblighi contrattuali.
 
-Comunicazione dei dati a terzi
+**Comunicazione dei dati a terzi**
 
 I Vs. dati personali saranno trattati dal Titolare del trattamento, dai Responsabili del trattamento da lui nominati e dagli incaricati del trattamento strettamente autorizzati. I Vs. dati personali non sono oggetto di diffusione.
 
-Tempi di conservazione
+**Tempi di conservazione**
 
 I Vs. dati personali saranno conservati per nr. 10 anni, dalla cessazione del rapporto di erogazione del servizio/di fornitura del prodotto presso gli archivi informatici di proprietà di Atelier Sartoriale Chiocchetti Federica.
 
-Intenzione del Titolare del trattamento dati personali
+**Intenzione del Titolare del trattamento dati personali**
 
 Il Titolare del trattamento non trasferirà i Vs. dati personali ad un paese terzo o ad una organizzazione internazionale.
 
-Titolare e Responsabile del trattamento
+**Titolare e Responsabile del trattamento**
 
 Titolare del trattamento dei dati è la Atelier Sartoriale Chiocchetti Federica. Dati contatti del Titolare del trattamento, mail : sartoriatelier.fc@gmail.com
 
