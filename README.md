@@ -1,3 +1,8 @@
-Repository contenente il codice sorgente del sito https://sartoriatelierfc.com.
-
-Copyright © 2021 Atelier Sartoriale Chiocchetti Federica. All Rights Reserved.
+Repository del codice sorgente del sito https://sartoriatelierfc.com<br>
+<br>
+Atelier Sartoriale Chiocchetti Federica<br>
+Strada Salejada 43 - 38035 Moena TN<br>
+C.F. CHCFRC73R61C372J<br>
+P. IVA 01814820229<br>
+<br>
+Copyright &copy; 2021 Atelier Sartoriale Chiocchetti Federica
