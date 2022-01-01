@@ -9,7 +9,7 @@ We aim to publish accurate information at all times and will update information 
 
 We use security measures to protect the contents of the Website from viruses. However, we cannot guarantee that material and downloads from our Website are free from viruses or malicious codes. It is your responsibility to ensure that you have taken precautions to protect your own computer system from virus infections.
 
-The website uses a template made by https://templatemo.com
+The website uses a template made by http://www.mashup-template.com
 
 -- ITALIAN / ITALIANO --
 Questo sito Web viene presentato all'utente "COSÌ COM'È", senza alcuna dichiarazione o garanzia di alcun tipo, comprese garanzie implicite o esplicite relative alla qualità del sito Web e/o alla sua idoneità per uno scopo particolare. Miriamo a fornire un servizio eccellente privo di errori, ma non possiamo garantire che il Sito Web sarà sempre disponibile e/o privo di errori. Nella misura consentita dalla legge, non accettiamo alcuna responsabilità derivante da eventuali errori e/o indisponibilità dal nostro sito Web.
@@ -18,7 +18,7 @@ Miriamo a pubblicare informazioni accurate in ogni momento e aggiorneremo le inf
 
 Utilizziamo misure di sicurezza per proteggere i contenuti del sito Web dai virus. Tuttavia, non possiamo garantire che il materiale e i download dal nostro sito Web siano privi di virus o codici dannosi. È tua responsabilità assicurarti di aver preso precauzioni per proteggere il tuo sistema informatico dalle infezioni da virus.
 
-Il sito web utilizza un template fornito da https://templatemo.
+Il sito web utilizza un template fornito da http://www.mashup-template.com.
 
 -- GERMAN / DEUTSCH --
 Diese Website wird Ihnen „wie besehen“ ohne jegliche Zusicherung oder Gewährleistung jeglicher Art präsentiert, einschließlich stillschweigender oder ausdrücklicher Garantien in Bezug auf die Qualität der Website und/oder ihre Eignung für einen bestimmten Zweck. Wir sind bestrebt, einen exzellenten, fehlerfreien Service zu bieten, können jedoch nicht garantieren, dass die Website immer verfügbar und/oder fehlerfrei ist. Soweit gesetzlich zulässig, übernehmen weder die Unternehmen noch eines von ihnen eine Haftung für Fehler und/oder Nichtverfügbarkeit unserer Website.
@@ -27,4 +27,4 @@ Wir sind bestrebt, jederzeit genaue Informationen zu veröffentlichen und werden
 
 Wir verwenden Sicherheitsmaßnahmen, um die Inhalte der Website vor Viren zu schützen. Wir können jedoch nicht garantieren, dass Material und Downloads von unserer Website frei von Viren oder bösartigen Codes sind. Es liegt in Ihrer Verantwortung sicherzustellen, dass Sie Vorkehrungen zum Schutz Ihres eigenen Computersystems vor Virusinfektionen getroffen haben.
 
-Die Website verwendet einen Template von https://templatemo.com
+Die Website verwendet einen Template von http://www.mashup-template.com.
