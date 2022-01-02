@@ -1,6 +1,6 @@
 All Rights Reserved.
 
-Copyright © 2021 Atelier Sartoriale Chiocchetti Federica.
+Copyright © 2020-2022 Atelier Sartoriale Chiocchetti Federica.
 
 --- ENGLISH --
 This Website is presented to you “AS IS,” without any representation or warranty of any kind including implied or express warranties regarding the quality of the Website and/or its fitness for any particular purpose. We aim to provide an excellent service free from any errors, but we cannot guarantee that the Website will always be available and/or free from errors. To the extent permitted by law, neither the Companies nor any of them accept any liability arising from any errors and/or unavailability from our Website.
