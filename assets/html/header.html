@@ -2,7 +2,7 @@
     <nav class="navbar  navbar-fixed-top navbar-default">
         <div class="container navbar-background">
             <div class="navbar-header">
-                <script src="assets/js/script.js"></script>
+                <script src="/assets/js/script.js"></script>
                 <button type="button" class="navbar-toggle uarr collapsed" data-toggle="collapse"
                     data-target="#navbar-collapse-uarr" onclick="toggleClass()">
                     <span class="sr-only">Toggle navigation</span>
@@ -11,7 +11,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.html" title="">
-                    <img src="./assets/images/navbar-logo.png" width="50px" height="50px" class="img top-logo" alt="">
+                    <img src="/assets/images/navbar-logo.png" width="50px" height="50px" class="img top-logo" alt="">
                 </a>
             </div>
 
@@ -21,13 +21,16 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right" id="tombola">
                     <!--<li><img src="./assets/images/navbar-logo.png" class="left"></li>-->
-                    <li><a href="index.html" title="" class="active">Home</a></li>
-                    <li><a href="creazioni.html" title=""> Creazioni</a></li>
-                    <li><a href="orario.html" title=""> Orario </a></li>
-                    <li><a href="dove-siamo.html" title="">Dove Siamo</a></li>
-                    <li><a href="contact.html" title="">Contattaci</a></li>
+                    <li><a href="/index.html" title="" class="active">Home</a></li>
+                    <li><a href="/creazioni.html" title=""> Creazioni</a></li>
+                    <li><a><button onclick="toggleOrario()" style="background-color: transparent; border: none;"> Orario </button></a></li>
+                    <li><a href="/dove-siamo.html" title="">Dove Siamo</a></li>
+                    <li><a href="/contact.html" title="">Contattaci</a></li>
                 </ul>
             </div>
         </div>
     </nav>
 </header>
+<!-- <section id="orario-container" class="no-orario" style="position: absolute; position: fixed; z-index: 1998; display: flex; height: 650px; width: 650px; padding: 25px; margin: 25px; background-color: rgba(255, 255, 255, 0.797);">
+    <img src="/assets/images/orario.png" width="600px" style="position: absolute; z-index: 1999; position: fixed;">
+</section> -->

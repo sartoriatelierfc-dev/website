@@ -3034,15 +3034,15 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary {
     color: #fff;
-    background-color: #8b62ff;
-    border-color: #8b62ff
+    background-color: #F0B70A;
+    border-color: #F0B70A
 }
 
 .btn-primary.focus,
 .btn-primary:focus {
     color: #fff;
-    background-color: #652fff;
-    border-color: #3b00e2
+    background-color: #F0B70A;
+    border-color: #F0B70A
 }
 
 .btn-primary.active,
@@ -3050,8 +3050,8 @@ fieldset[disabled] .btn-default:hover {
 .btn-primary:hover,
 .open>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #652fff;
-    border-color: #5e25ff
+    background-color: #F0B70A;
+    border-color: #F0B70A
 }
 
 .btn-primary.active.focus,
@@ -3064,8 +3064,8 @@ fieldset[disabled] .btn-default:hover {
 .open>.btn-primary.dropdown-toggle:focus,
 .open>.btn-primary.dropdown-toggle:hover {
     color: #fff;
-    background-color: #4b0bff;
-    border-color: #3b00e2
+    background-color: #F0B70A;
+    border-color: #F0B70A
 }
 
 .btn-primary.active,
@@ -3083,12 +3083,12 @@ fieldset[disabled] .btn-default:hover {
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
-    background-color: #8b62ff;
-    border-color: #8b62ff
+    background-color: #F0B70A;
+    border-color: #F0B70A
 }
 
 .btn-primary .badge {
-    color: #8b62ff;
+    color: #F0B70A;
     background-color: #fff
 }
 
@@ -5995,9 +5995,9 @@ h2 {
 
 .btn-primary,
 .btn-primary:hover {
-    background-image: -webkit-linear-gradient(left, #8b62ff, #3b1bff);
-    background-image: -o-linear-gradient(left, #8b62ff 0, #3b1bff 100%);
-    background-image: linear-gradient(90deg, #8b62ff 0, #3b1bff);
+    background-image: -webkit-linear-gradient(left, #F0B70A, #F0B70A);
+    background-image: -o-linear-gradient(left, #F0B70A 0, #F0B70A 100%);
+    background-image: linear-gradient(90deg, #F0B70A 0, #F0B70A);
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FF8B62FF", endColorstr="#FF3B1BFF", GradientType=1)
 }

@@ -10,38 +10,53 @@ function toggleClass() {
     }
 }
 
-// includeScript.js
-function includeHTML() {
-    // Fetch header
-    fetch('header.html')
-        .then(response => response.text())
-        .then(html => {
-            document.getElementById('headerContainer').innerHTML = html;
-        })
-        .catch(error => console.error('Error fetching header:', error));
-
-    // Fetch footer
-    fetch('footer.html')
-        .then(response => response.text())
-        .then(html => {
-            document.getElementById('footerContainer').innerHTML = html;
-        })
-        .catch(error => console.error('Error fetching footer:', error));
+function toggleOrario() {
+    var x = document.getElementById("orario-container");
+    if (x.classList.contains("orario")) {
+        x.classList.remove("orario");
+        x.classList.add("no-orario");
+    } else {
+        x.classList.remove("no-orario");
+        x.classList.add("orario");
+    }
 }
 
-document.addEventListener("DOMContentLoaded", function () {
-    // Fetch header and footer, then call includeHTML
-    Promise.all([
-        fetch('header.html').then(response => response.text()),
-        fetch('footer.html').then(response => response.text())
-    ])
-    .then(([headerHtml, footerHtml]) => {
-        document.getElementById('headerContainer').innerHTML = headerHtml;
-        document.getElementById('footerContainer').innerHTML = footerHtml;
-    })
-    .catch(error => console.error('Error fetching header or footer:', error))
-    .finally(() => {
-        // Call includeHTML after all fetch requests are completed
-        includeHTML();
+// includeScript.js
+let promises = [];
+function includeHTML() {
+    const z = document.getElementsByTagName("*");
+    const loadPromise = (e, file) => new Promise(function(resolve, reject) {
+        $(e).load(file, resolve);
+    }); 
+    for(let i=0; i<z.length; i++) {
+        const e = z[i];
+        let file = e.getAttribute("include-html");
+        if(file) {
+            promises.push(loadPromise(e, file));
+            e.removeAttribute("include-html");
+            includeHTML();
+            return;
+        }
+    }
+
+    Promise.all(promises).then(() => {
+        console.log("All promises resolved!");
+        const pathname = window.location.pathname.split("/");
+        const pagina = pathname[pathname.length - 2] || 'home';
+        const navLink = document.getElementById("nav-link-" + pagina);
+        if (navLink != null) navLink.classList.add("active");
+        console.log(navLink,pagina)
+        
+        if(document.getElementById('footerPush') != null && document.body.clientHeight - document.getElementById('mainNavbar').clientHeight - document.getElementById('mainFooter').clientHeight < $(window).height()) {
+            document.getElementById('footerPush').style.height = ($(window).height() - document.body.clientHeight) + 'px';
+        }
+
+        const currentYear = new Date().getFullYear();
+        let spanYear = document.getElementsByClassName("currentYear");
+        for(let i = 0; i < spanYear.length; i++)
+            spanYear[i].innerHTML = currentYear;
     });
-});
+};
+
+window.addEventListener('load', includeHTML);
+
