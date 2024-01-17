@@ -45,7 +45,8 @@ footer {
 footer a {
     color: white;
 }
-footer a:hover{
+
+footer a:hover {
     color: white;
 }
 
@@ -298,6 +299,21 @@ th {
 
     .navbar {
         display: none;
+    }
+
+    .top-logo {
+        border-width: 0 0 1px;
+        position: absolute;
+        z-index: 999;
+        min-height: 50px;
+        max-height: 50px;
+    }
+
+    .top-logo navbar-default img {
+        position: absolute;
+        top: 50%;
+        bottom: 50%;
+        right: 50%;
     }
 
     .btn>.caret,
@@ -4256,7 +4272,8 @@ tbody.collapse.in {
     }
 
     .navbar-collapse.in {
-        overflow-y: visible
+        overflow-y: visible;
+
     }
 
     .navbar-fixed-bottom .navbar-collapse,
@@ -4339,11 +4356,21 @@ tbody.collapse.in {
 
 .navbar-brand {
     float: left;
-    padding: 26.5px 15px;
+    padding: 15px 0px 0px 0px;
     font-size: 19px;
-    line-height: 27px;
-    height: 80px
+    /*line-height: 27px;*/
+    height: 80px;
+    vertical-align: middle;
 }
+@media (max-width: 768px) {
+    .navbar-brand{
+        padding-left: 15px;
+    }
+    .tomba{
+        display: none;
+    }
+}
+
 
 .navbar-brand:focus,
 .navbar-brand:hover {
@@ -4354,7 +4381,7 @@ tbody.collapse.in {
     display: block
 }
 
-.navbar-brand img{
+.navbar-brand img {
     display: flex;
     align-items: center;
     max-height: 100%;
@@ -4607,7 +4634,8 @@ tbody.collapse.in {
 }
 
 .navbar-default {
-    background-color: #F0B70A;;
+    background-color: #F0B70A;
+    ;
     border-color: #eee
 }
 
